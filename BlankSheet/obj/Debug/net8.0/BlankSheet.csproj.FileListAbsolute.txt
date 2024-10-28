@@ -1,0 +1,14 @@
+C:\Users\lucas\OneDrive\Documents\Visual Studio 2022\BlankSheet\bin\Debug\net8.0\BlankSheet.exe
+C:\Users\lucas\OneDrive\Documents\Visual Studio 2022\BlankSheet\bin\Debug\net8.0\BlankSheet.deps.json
+C:\Users\lucas\OneDrive\Documents\Visual Studio 2022\BlankSheet\bin\Debug\net8.0\BlankSheet.runtimeconfig.json
+C:\Users\lucas\OneDrive\Documents\Visual Studio 2022\BlankSheet\bin\Debug\net8.0\BlankSheet.dll
+C:\Users\lucas\OneDrive\Documents\Visual Studio 2022\BlankSheet\bin\Debug\net8.0\BlankSheet.pdb
+C:\Users\lucas\OneDrive\Documents\Visual Studio 2022\BlankSheet\obj\Debug\net8.0\BlankSheet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documents\Visual Studio 2022\BlankSheet\obj\Debug\net8.0\BlankSheet.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documents\Visual Studio 2022\BlankSheet\obj\Debug\net8.0\BlankSheet.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documents\Visual Studio 2022\BlankSheet\obj\Debug\net8.0\BlankSheet.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documents\Visual Studio 2022\BlankSheet\obj\Debug\net8.0\BlankSheet.dll
+C:\Users\lucas\OneDrive\Documents\Visual Studio 2022\BlankSheet\obj\Debug\net8.0\refint\BlankSheet.dll
+C:\Users\lucas\OneDrive\Documents\Visual Studio 2022\BlankSheet\obj\Debug\net8.0\BlankSheet.pdb
+C:\Users\lucas\OneDrive\Documents\Visual Studio 2022\BlankSheet\obj\Debug\net8.0\BlankSheet.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Documents\Visual Studio 2022\BlankSheet\obj\Debug\net8.0\ref\BlankSheet.dll
